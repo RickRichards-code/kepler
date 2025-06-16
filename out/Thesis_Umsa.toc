@@ -1,0 +1,23 @@
+\contentsline {chapter}{BIBLIOGRAFÍA}{1}{Doc-Start}%
+\babel@toc {nil}{}\relax 
+\contentsline {chapter}{\numberline {1}Descripción del Dataset y Objetivo de Investigación}{v}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Descripción del Dataset}{v}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objetivo de Investigación}{viii}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Proceso Básico de Análisis de Datos}{x}{chapter.2}%
+\contentsline {section}{\numberline {2.1}a) Preprocesamiento de Datos}{x}{section.2.1}%
+\contentsline {section}{\numberline {2.2}b) Selección y Justificación del Clasificador}{xi}{section.2.2}%
+\contentsline {section}{\numberline {2.3}c) Primera Ejecución del Modelo}{xi}{section.2.3}%
+\contentsline {section}{\numberline {2.4}d) Validación por Asignaciones (Splits)}{xi}{section.2.4}%
+\contentsline {section}{\numberline {2.5}e) Código Fuente}{xi}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Reducción de Dimensionalidad}{xii}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Relaciones con la Matriz de Correlación}{xii}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Combinación de Columnas}{xiv}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Fundamento Matemático para la Combinación}{xiv}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Fundamento Matemático para LDA}{xv}{subsection.3.2.2}%
+\contentsline {chapter}{\numberline {4}Aprendizaje y Predicción}{xvii}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Entrenamiento del Modelo}{xvii}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Etapas de Entrenamiento y Prueba}{xviii}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Prueba con Nuevos Datos}{xix}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Conclusiones y Recomendaciones}{xxi}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusiones}{xxi}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Recomendaciones}{xxi}{section.5.2}%
